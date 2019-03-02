@@ -9,7 +9,7 @@ Python3 library for generate a variety of identicons.
 ## Features
 
 - 3 different types of identicons
-- change the final image size (size of elements, number of number of elements)
+- change the final image size (size of elements, number of elements)
 - change border size
 - change background color 
 - change the transparency of elements
