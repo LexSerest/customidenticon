@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/22620605/53684108-2c1c3180-3d1a-11e9-84ca-64547fb6ad51.png)
 
-Python3 library for generate a variety of identicons. 
+Python library for generate a variety of identicons. 
 
 [![image](https://travis-ci.org/LexSerest/customidenticon.svg?branch=master)](https://travis-ci.org/LexSerest/customidenticon)
 
