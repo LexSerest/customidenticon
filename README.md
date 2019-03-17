@@ -19,7 +19,7 @@ Python library for generate a variety of identicons.
 
 ## Installation
 
-`pip3 install customidenticon`
+`pip install customidenticon`
 
 ## Usage
 End image size = size * block_size + border * 2
